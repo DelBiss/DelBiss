@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Philippe Allard-Rousse
+- 🌱 I’m currently learning Mobile Application Developpement
