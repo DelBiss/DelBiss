@@ -14,4 +14,4 @@
 ## Block 3
 ### Développement d'applications Web progressives
 - [Lab 1 - Bootstrap](https://delbiss.github.io/pwa-bootstrap/)
-- [Lab 2 - Cache et Manifest](delbiss.github.io/dam-pwa-manifest/)
+- [Lab 2 - Cache et Manifest](https://delbiss.github.io/dam-pwa-manifest/)
