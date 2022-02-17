@@ -15,3 +15,4 @@
 ### Développement d'applications Web progressives
 - [Lab 1 - Bootstrap](https://delbiss.github.io/pwa-bootstrap/)
 - [Lab 2 - Cache et Manifest](https://delbiss.github.io/dam-pwa-manifest/)
+- [Lab 3 - Background Sync](https://delbiss.github.io/dam-pwa-lab3-offline/)
